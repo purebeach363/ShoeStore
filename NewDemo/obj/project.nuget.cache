@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AhSGVjtgm2o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slavi\\source\\repos\\NewDemo\\NewDemo\\NewDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
